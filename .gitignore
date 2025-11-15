@@ -8,3 +8,32 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Model files (large)
+models/*.pt
+models/*.onnx
+models/*.torchscript
+
+# Data files
+data/images/*
+data/videos/*
+!data/images/.gitkeep
+!data/videos/.gitkeep
+
+# Output files
+data/outputs/*
+!data/outputs/.gitkeep
+logs/*.log
+logs/*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

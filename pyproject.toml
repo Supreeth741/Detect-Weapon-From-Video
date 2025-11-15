@@ -1,7 +1,16 @@
 [project]
 name = "detect-weapon-from-video"
 version = "0.1.0"
-description = "Add your description here"
+description = "Weapon detection system using YOLOv8 and OpenCV for images, videos, and live camera feeds"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "ultralytics>=8.0.0",
+    "opencv-python>=4.8.0",
+    "numpy>=1.24.0",
+    "pillow>=10.0.0",
+    "torch>=2.0.0",
+    "torchvision>=0.15.0",
+    "plyer>=2.1.0",
+    "python-dotenv>=1.0.0",
+]
