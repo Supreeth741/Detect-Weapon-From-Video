@@ -20,7 +20,7 @@ def print_banner():
     """Print application banner."""
     banner = """
 ╔════════════════════════════════════════════════════════════════╗
-║          Weapon Detection System - YOLOv8 + OpenCV            ║
+║          Weapon Detection System - YOLOv8 + OpenCV             ║
 ║                  Detect weapons from any source                ║
 ╚════════════════════════════════════════════════════════════════╝
     """
