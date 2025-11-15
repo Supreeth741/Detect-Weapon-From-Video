@@ -206,7 +206,7 @@ def main():
     """Run all checks."""
     print("\n")
     print("╔════════════════════════════════════════════════════════════════╗")
-    print("║        Weapon Detection System - Installation Check           ║")
+    print("║        Weapon Detection System - Installation Check            ║")
     print("╚════════════════════════════════════════════════════════════════╝")
     print()
     

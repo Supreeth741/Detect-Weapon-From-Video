@@ -314,7 +314,7 @@ This project is licensed under the MIT License.
 
 **Supreeth741**
 
-- GitHub: [@Supreeth741](https://github.com/Supreeth741)
+- GitHub: [@Supreeth TP](https://github.com/Supreeth741)
 
 ## 🙏 Acknowledgments
 
